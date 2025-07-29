@@ -13,6 +13,7 @@
 
 - [Сертификат: Основы статистики — Stepik](certificates/stepik-intro-statistics.pdf)
 - [Сертификат: Инструменты анализа данных — Яндекс Практикум](certificates/yandex-data-analysis-tools.pdf)
+- [Справка об обучении: Математика для анализа данных — Яндекс Практикум](certificates/yandex-math-proof.pdf) 
 
 ## Курсы в процессе
 
